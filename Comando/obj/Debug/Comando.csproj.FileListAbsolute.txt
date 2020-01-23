@@ -1,0 +1,7 @@
+C:\BOT\Cursos\Patrones\Comando\Comando\Comando\bin\Debug\Comando.exe.config
+C:\BOT\Cursos\Patrones\Comando\Comando\Comando\bin\Debug\Comando.exe
+C:\BOT\Cursos\Patrones\Comando\Comando\Comando\bin\Debug\Comando.pdb
+C:\BOT\Cursos\Patrones\Comando\Comando\Comando\obj\Debug\Comando.csprojAssemblyReference.cache
+C:\BOT\Cursos\Patrones\Comando\Comando\Comando\obj\Debug\Comando.csproj.CoreCompileInputs.cache
+C:\BOT\Cursos\Patrones\Comando\Comando\Comando\obj\Debug\Comando.exe
+C:\BOT\Cursos\Patrones\Comando\Comando\Comando\obj\Debug\Comando.pdb
